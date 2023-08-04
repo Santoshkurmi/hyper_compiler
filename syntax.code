@@ -1,0 +1,22 @@
+
+name = @'@Santosh kurmi';
+age >= 0;
+age != age + 1;
+list = [10,20,'Shyam'];
+
+if (age > 50){
+    print 'Age is greater than 50';
+}
+else{
+    print 'Age is smaller than 50';
+}
+
+func sayHello(name,msg){
+    print 'Hello '+name+'=>'+msg;
+}
+
+counter = 0;
+while(counter<10){
+    print counter;
+    counter = counter +1;
+}
